@@ -12,7 +12,9 @@ description: Penetration Testing / Development / Research / Whatever else comes 
 avatar: https://avatars0.githubusercontent.com/u/7879795?v=3&s=460
 
 # Build settings
-theme: cayman
+theme: jekyll-theme-cayman
+title: Mark Clayton
+description: Security / Pentesting / Development / Random Thoughts
 
 #
 # Flags below are optional
